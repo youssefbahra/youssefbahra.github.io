@@ -4,40 +4,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BMW Showcase</title>
+    <title>Middle Finger</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #222;
             margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 50px auto;
-            background: white;
-            padding: 20px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-            border-radius: 10px;
         }
         img {
-            width: 100%;
+            max-width: 100%;
+            height: auto;
             border-radius: 10px;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            color: #666;
+            box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Welcome to the BMW Showcase</h1>
-        <img src="https://source.unsplash.com/800x500/?bmw" alt="BMW Car">
-        <p>Experience the power, luxury, and performance of BMW.</p>
-    </div>
+    <img src="https://source.unsplash.com/800x600/?middle-finger" alt="Middle Finger">
 </body>
 </html>
