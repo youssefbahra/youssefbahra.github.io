@@ -1,2 +1,2 @@
 # youssefbahra.github.io
-![Middle Finger](https://source.unsplash.com/800x600/?middle-finger)
+![Middle Finger](https://upload.wikimedia.org/wikipedia/commons/3/3a/Middle_finger.svg)
